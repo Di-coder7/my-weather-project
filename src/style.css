@@ -1,4 +1,14 @@
 h1 {
     text-align: center;
-    color: aqua;
+    color: rgb(79, 192, 134);
+}
+p {
+    text-align: center;
+    color: rgb(65, 128, 107);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.contact-button {
+display: block;
+margin: 0 auto;
+width: 150px;
 }
